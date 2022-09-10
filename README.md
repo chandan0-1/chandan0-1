@@ -34,8 +34,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I solve DSA Problems and read tech articles.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/in-Chandan-blue)](https://www.linkedin.com/in/chandan0-1/)
@@ -55,5 +53,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
 </div>
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chandan0-1&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<!-- 
+| <a href="https://github.com/chandan0-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan0-1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Chandan's github stats" /></a> | <a href="https://github.com/chandan0-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan0-1&layout=compact&theme=dracula&hide_border=true" /></a> |
+| ------------- | ------------- | -->
