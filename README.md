@@ -61,3 +61,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- 
 | <a href="https://github.com/chandan0-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan0-1&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Chandan's github stats" /></a> | <a href="https://github.com/chandan0-1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan0-1&layout=compact&theme=dracula&hide_border=true" /></a> |
 | ------------- | ------------- | -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/chandan0-1/chandan0-1/output/github-contribution-grid-snake-dark.svg" alt="Conribution Animation" />
+</p>
+
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/yusufyusie/yusufyusie/blob/main/line.gif">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</a>
